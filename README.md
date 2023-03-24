@@ -12,7 +12,7 @@ I'm Amarjeet Kumar, Analytical and detail-oriented aspiring Full Stack Developer
 </p>
      
 
-- ⚡ Visit my protfolio at: [https://amar0705.github.io](https://amar0705.github.io)
+- ⚡ Visit my protfolio at:  <a href="https://amar0705.github.io">https://amar0705.github.io</a> 
 
 
 </div>
